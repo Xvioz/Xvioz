@@ -13,5 +13,5 @@ Currently building JavaScript, Solidity, and Python skills through hands-on proj
 - Phase 4: Integrate AI + Web3
 
 ## 📬 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/ofeleon-moreno-508a19370/)  
+- [LinkedIn](https://www.linkedin.com/in/ofeleon-moreno/)  
 - GitHub: `@Xvioz`
