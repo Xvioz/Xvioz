@@ -12,6 +12,11 @@ Currently building JavaScript, Solidity, and Python skills through hands-on proj
 - Phase 3: Python & Machine Learning  
 - Phase 4: Integrate AI + Web3
 
+## 🔹 Learning roadmap:
+- Web foundations (JS, HTML, CSS)
+- Solidity & dApp development
+- Python for AI + ML
+
 ## 📬 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/ofeleon-moreno/)  
 - GitHub: `@Xvioz`
