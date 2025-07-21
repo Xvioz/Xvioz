@@ -20,3 +20,13 @@ Currently building JavaScript, Solidity, and Python skills through hands-on proj
 ## 📬 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/ofeleon-moreno/)  
 - GitHub: `@Xvioz`
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Xvioz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Xvioz&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xvioz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Xvioz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
