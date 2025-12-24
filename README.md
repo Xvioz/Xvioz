@@ -4,7 +4,7 @@ A Computer Science student passionate about **Web3** and **AI**.
 Currently building JavaScript, Solidity, and Python skills through hands-on projects.
 
 ## 🔭 Featured Project  
-- [Palindrome Checker](https://xvioz.github.io/palindrome-checker/) — simple palindrome validator with HTML/CSS/JS
+- [Student Data Management System](https://github.com/Xvioz/student-management-c) — simple management system with C
 
 ## 🌱 Learning Path  
 - Phase 1: JavaScript & Web Essentials  
